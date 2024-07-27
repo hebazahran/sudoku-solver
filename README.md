@@ -26,4 +26,9 @@ This web application allows users to input a Sudoku puzzle and solve it using a 
 
 - The Sudoku grid is created dynamically using JavaScript.
 - The solver algorithm uses backtracking to find the solution.
-- Error checking is implemented to prevent invalid entries.
+
+## Screenshots
+
+![grid](https://github.com/user-attachments/assets/6147d008-7a27-448a-ac8f-d20ca289ce30)
+![puzzle example](https://github.com/user-attachments/assets/21a7fe40-3e7b-4116-bee4-0d002bb76a3b)
+![puzzle example solved](https://github.com/user-attachments/assets/88299625-a1a2-472c-9f1e-0c4b427b0ebf)
